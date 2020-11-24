@@ -1,7 +1,6 @@
 ### Hello, This is Awet! 👋
 [![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
 Here are some ideas to get you started:
-- 🔭 I’ll be working as ... a **web-dev (Back-End)**
 - 🌱 I’m currently learning ...**php framework (Symfony)**
 - 👯 I’m looking to collaborate on ... **PHP**
 - 🤔 I’m looking for help with ...**C#**
