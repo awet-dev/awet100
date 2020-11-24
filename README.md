@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 26% of people put items in their shopping cart just to check delivery costs.
 
 ![image](img.jpg)
-[<img align="left" alt="codewarsss | Codewars" width="auto" src="https://www.codewars.com/users/awet100/badges/small" />][codewars]
+[<img align="left" alt="codewarsss | Codewars" width="auto" src="https://www.codewars.com/users/awet100" />][codewars]
 <br/>
 <br >
 ### Skills:
