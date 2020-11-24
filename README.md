@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...whitezscope@gmail.com
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... 26% of people put items in their shopping cart just to check delivery costs.
-![image](https://unsplash.com/photos/XMFZqrGyV-Q)
+![image](img.jpg)
