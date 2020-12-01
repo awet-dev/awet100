@@ -5,7 +5,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... **PHP**
 - 🤔 I’m looking for help with ...**C#**
 - 💬 Ask me about ...**php, javascript** 
-- 📫 How to reach me: ...**whitezscope@gmail.com**
+- 📫 How to reach me via email: ...**whitezscope@gmail.com**
+- 📫 Here is my [linkedIn](linkedin.com/in/awet-tesfay-web-dev)
 - 😄 Pronouns: ...**He/Him**
 - ⚡ Fun fact: ... 26% of people put items in their shopping cart just to check delivery costs.
 
