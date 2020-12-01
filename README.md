@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...**He/Him**
 - ⚡ Fun fact: ... 26% of people put items in their shopping cart just to check delivery costs.
 
-![image](img.jpg)
+<img alt="visual_studio" width="260px" src="img.jpg" />
 <br/>
 <br >
 ### Skills:
