@@ -1,10 +1,8 @@
-### Hello, This is Awet! 👋
-[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
+### Hello, This is Awet, PHP (Laravel & Symfony) Developer ! 👋
 Here are some ideas to get you started:
-- 🌱 I’m currently learning ...**php framework (Symfony)**
-- 👯 I’m looking to collaborate on ... **PHP**
-- 🤔 I’m looking for help with ...**Docker**
-- 💬 Ask me about ...**php, javascript** 
+- 🌱 I’m currently diving to the DevOps
+- 👯 I’m looking to collaborate in **PHP** generally,and Laravel or Symfony specifically
+- 💬 Ask me about ...**php (Laravel & Symfony), javascript (Vue and Next)** 
 - 📫 How to reach me via email: ...**awet.dev@gmail.com**
 - 📫 Here is my [linkedIn](https://www.linkedin.com/in/awet-tesfay-web-dev/)
 - 😄 Pronouns: ...**He/Him**
