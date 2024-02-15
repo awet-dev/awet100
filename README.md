@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   <br />
   <img src="https://skillicons.dev/icons?i=javascript,nodejs,vuejs,nextjs,jquery"/>
   <br />
-  <img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=html,markdown,css,tailwind,bootstrap"/>
   <br />
   <img src="https://skillicons.dev/icons?i=git,docker,github,mysql,visualstudio" />
   <br />
